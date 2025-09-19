@@ -38,8 +38,8 @@ Coloque os arquivos do script em uma pasta chamada `custom-telegram` dentro do d
 ```
 /var/ossec/integrations/custom-telegram/
 │
-├── custom-telegram
-├── custom-telegram.py   # Script que envia alertas para Telegram
+   ├── custom-telegram
+   ├── custom-telegram.py   # Script que envia alertas para Telegram
 ```
 
 * `custom-telegram.py` é o script responsável por processar o alerta JSON e enviar a mensagem para o Telegram.
