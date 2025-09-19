@@ -1,5 +1,3 @@
-Perfeito! Vou atualizar o README referenciando suas pastas e arquivos existentes como você pediu (`custom-telegram` e `custom-telegram.py`) e mantendo o estilo GitHub/Teams.
-
 ---
 
 # Wazuh Telegram Integration Setup
